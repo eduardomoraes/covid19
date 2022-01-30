@@ -15,9 +15,9 @@ We also can analyze the correlation between cases and deaths by 1 million popula
       
 Finnaly we can take a look on how data is been architectured in the platform using Dax.
 
-<img src = "dax1.png" alt = "Dax1" height = "550" width = "870"/>
+<img src = "dax1.png" alt = "Dax1" height = "450" width = "1170"/>
 
-<img src = "dax2.png" alt = "Dax2" height = "550" width = "870"/>
+<img src = "dax2.png" alt = "Dax2" height = "450" width = "1170"/>
 
       
 
