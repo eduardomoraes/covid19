@@ -9,6 +9,8 @@ Lets take a look on a table by country. Some columns are built using the Dax lan
       alt = "Country Table" height = "550" width = "870"/>
       
 Now, lets see the kpis ploted in maps, which is more visually friendly than a table.      
-<img src = "map kpis.png"
-      alt = "Map Kpis" height = "550" width = "870"/>
+<img src = "map kpis.png" alt = "Map Kpis" height = "550" width = "870"/>
+      
+      
+      
 
