@@ -4,4 +4,4 @@ The data is colected direclty from the WorldMeter website about the covid-19 out
 
 
 <img src = "Country Table.png"
-      alt = "Learn HTML5" height = "550" width = "570"/>
+      alt = "Learn HTML5" height = "550" width = "870"/>
